@@ -2,12 +2,21 @@ project:
   type: website
 
 website:
-  title: "Test Web"
+  title: "My PISA Analysis"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: missingness.qmd
+        text: missingness
+      - href: pv_items.qmd
+        text: pv_items
+      - href: table_a_items.qmd
+        text: table_a_items
+      - href: table_b_items.qmd
+        text: table_b_items
+
+
 
 format:
   html:
