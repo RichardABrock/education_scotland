@@ -4,7 +4,273 @@
     "href": "index.html",
     "title": "Education Scotland - PISA 2025 Analysis",
     "section": "",
-    "text": "Education Scotland Analysis"
+    "text": "Education Scotland Analysis\nA reporting dashboard for the Scottish data in PISA 2025. ## Report Sections\n\nMissingness Analysis: Review missing data\nPV Items: Plots of PV scales and subscales\nTable A Items: Non-numeric and numeric student questionnaire items in table a\nTable B Items: Non-numeric student questionnaire items in table b"
+  },
+  {
+    "objectID": "table_a_items.html#st034q03ta",
+    "href": "table_a_items.html#st034q03ta",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST034Q03TA",
+    "text": "ST034Q03TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split",
+    "href": "table_a_items.html#gender-split",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st034q01ta",
+    "href": "table_a_items.html#st034q01ta",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST034Q01TA",
+    "text": "ST034Q01TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-1",
+    "href": "table_a_items.html#gender-split-1",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st265q03ja",
+    "href": "table_a_items.html#st265q03ja",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST265Q03JA",
+    "text": "ST265Q03JA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-2",
+    "href": "table_a_items.html#gender-split-2",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st062q02ta",
+    "href": "table_a_items.html#st062q02ta",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST062Q02TA",
+    "text": "ST062Q02TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-3",
+    "href": "table_a_items.html#gender-split-3",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st062q03ta",
+    "href": "table_a_items.html#st062q03ta",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST062Q03TA",
+    "text": "ST062Q03TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-4",
+    "href": "table_a_items.html#gender-split-4",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st097q02ta",
+    "href": "table_a_items.html#st097q02ta",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST097Q02TA",
+    "text": "ST097Q02TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-5",
+    "href": "table_a_items.html#gender-split-5",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st097q06da",
+    "href": "table_a_items.html#st097q06da",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST097Q06DA",
+    "text": "ST097Q06DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-6",
+    "href": "table_a_items.html#gender-split-6",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st100q02ta",
+    "href": "table_a_items.html#st100q02ta",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST100Q02TA",
+    "text": "ST100Q02TA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-7",
+    "href": "table_a_items.html#gender-split-7",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st498q09da",
+    "href": "table_a_items.html#st498q09da",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST498Q09DA",
+    "text": "ST498Q09DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-8",
+    "href": "table_a_items.html#gender-split-8",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st498q13da",
+    "href": "table_a_items.html#st498q13da",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST498Q13DA",
+    "text": "ST498Q13DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-9",
+    "href": "table_a_items.html#gender-split-9",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st498q01da",
+    "href": "table_a_items.html#st498q01da",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST498Q01DA",
+    "text": "ST498Q01DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-10",
+    "href": "table_a_items.html#gender-split-10",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st533q01da",
+    "href": "table_a_items.html#st533q01da",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST533Q01DA",
+    "text": "ST533Q01DA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-11",
+    "href": "table_a_items.html#gender-split-11",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st300q09ja",
+    "href": "table_a_items.html#st300q09ja",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST300Q09JA",
+    "text": "ST300Q09JA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-12",
+    "href": "table_a_items.html#gender-split-12",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st250q02ja",
+    "href": "table_a_items.html#st250q02ja",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST250Q02JA",
+    "text": "ST250Q02JA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-13",
+    "href": "table_a_items.html#gender-split-13",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#st250q05ja",
+    "href": "table_a_items.html#st250q05ja",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "ST250Q05JA",
+    "text": "ST250Q05JA"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-14",
+    "href": "table_a_items.html#gender-split-14",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#bullied",
+    "href": "table_a_items.html#bullied",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "BULLIED",
+    "text": "BULLIED"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-15",
+    "href": "table_a_items.html#gender-split-15",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#teachsup",
+    "href": "table_a_items.html#teachsup",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "TEACHSUP",
+    "text": "TEACHSUP"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-16",
+    "href": "table_a_items.html#gender-split-16",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#effscie",
+    "href": "table_a_items.html#effscie",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "EFFSCIE",
+    "text": "EFFSCIE"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-17",
+    "href": "table_a_items.html#gender-split-17",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
+  },
+  {
+    "objectID": "table_a_items.html#pqscar",
+    "href": "table_a_items.html#pqscar",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "PQSCAR",
+    "text": "PQSCAR"
+  },
+  {
+    "objectID": "table_a_items.html#gender-split-18",
+    "href": "table_a_items.html#gender-split-18",
+    "title": "Education Scotland - PISA 2025 Analysis",
+    "section": "Gender split",
+    "text": "Gender split"
   },
   {
     "objectID": "missingness.html",
